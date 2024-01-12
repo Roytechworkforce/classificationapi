@@ -42,7 +42,9 @@ The API will be accessible at `http://localhost:3000`.
 - **Method:** `POST`
 - **Request:**
   - Form Data:
-    - `image`: Upload the image file for classification.
+    - `image`: image to url jpg/png (no base64)
+    - `username`: user name.
+    - `password`: password.
 
 ## Example Usage 💡
 
