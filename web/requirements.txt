@@ -2,3 +2,7 @@ flask
 flask-restful
 flask-cors
 pymongo
+bcrypt
+numpy
+tensorflow==2.11.0
+requests

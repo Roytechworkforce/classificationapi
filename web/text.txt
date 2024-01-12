@@ -1,0 +1,1 @@
+"{'lion, king of beasts, Panthera leo': 0.97098315, 'chow, chow chow': 0.0023395515, 'cheetah, chetah, Acinonyx jubatus': 0.0005355274, 'Arabian camel, dromedary, Camelus dromedarius': 0.00040427488, 'impala, Aepyceros melampus': 0.00037520708}"

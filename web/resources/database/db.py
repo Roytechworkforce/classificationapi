@@ -1,3 +1,3 @@
 from pymongo import MongoClient
-client=MongoClient("mongodb://db:27017")
-db=client.aNewdb
+import os
+client=MongoClient("mongodb://localhost:27017" if os.name=="nt" else "mongodb://db:27017" )
