@@ -1,4 +1,4 @@
-# Classification API with InceptionV3 🚀
+# Python Flask-restful Classification API with InceptionV3 🚀
 
 Welcome to the Classification API, utilizing the InceptionV3 model for image recognition! 🌟 This API is built with TensorFlow 2.11.0, Python 3.8.0, and can be easily deployed using Docker Compose. Let's get started!
 
